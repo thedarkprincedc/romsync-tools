@@ -1,0 +1,22 @@
+{
+  "name": "romsync-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "excel-as-json": "^2.0.2",
+    "flat": "^4.0.0",
+    "http": "0.0.0",
+    "inquirer": "^5.2.0",
+    "node-mysql-importer": "0.0.10",
+    "odata-v4-service-metadata": "^0.1.6",
+    "xml-formatter": "^1.0.1",
+    "xml2js": "^0.4.19"
+  }
+}
